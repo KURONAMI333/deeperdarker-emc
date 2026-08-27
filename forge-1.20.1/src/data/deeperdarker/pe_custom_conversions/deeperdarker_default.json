@@ -1,0 +1,40 @@
+{
+  "comment": "Deeper and Darker EMC integration for ProjectE (KURONAMI). Values per _research/emc_campaign_2026-08-26/DEEPERDARKER_EMC_SPEC.md (SS5 + SS8 rulings). Gear (warden armour and the sonorous_staff chain), soul_elytra (elytra is unvalued) and ancient_compass (AUTO) intentionally have no EMC. Echo logs are hand-set because 1.20.1 lacks the item-side logs_that_burn tag. 33 ids total: porous_sculk_gleam/gleam_gel/angler_fish/gloomsherd x9/gloomslate_pot/lite do not exist on this cell.",
+  "values": {
+    "before": {
+      "deeperdarker:echo_soil": 1,
+      "deeperdarker:cobbled_gloomslate": 2,
+      "deeperdarker:cobbled_sculk_stone": 2,
+      "deeperdarker:blooming_sculk_stone": 4,
+      "deeperdarker:gloomy_grass": 1,
+      "deeperdarker:glowing_grass": 1,
+      "deeperdarker:glowing_roots": 1,
+      "deeperdarker:sculk_tendrils": 4,
+      "deeperdarker:sculk_vines": 4,
+      "deeperdarker:gloomy_sculk": 16,
+      "deeperdarker:gloomy_geyser": 16,
+      "deeperdarker:bloom_berries": 16,
+      "deeperdarker:glowing_flowers": 16,
+      "deeperdarker:ice_lily": 16,
+      "deeperdarker:gloomy_cactus": 16,
+      "deeperdarker:blooming_moss_block": 12,
+      "deeperdarker:sculk_gleam": 8,
+      "deeperdarker:grime_ball": 16,
+      "deeperdarker:sculk_bone": 144,
+      "deeperdarker:soul_dust": 192,
+      "deeperdarker:crystallized_amber": 32,
+      "deeperdarker:sculk_jaw": 64,
+      "deeperdarker:sculk_transmitter": 512,
+      "deeperdarker:soul_crystal": 512,
+      "deeperdarker:resonarium": 768,
+      "deeperdarker:warden_carapace": 1024,
+      "deeperdarker:ancient_vase": 7497,
+      "deeperdarker:blooming_stem": 32,
+      "deeperdarker:stripped_blooming_stem": 32,
+      "deeperdarker:echo_log": 32,
+      "deeperdarker:stripped_echo_log": 32,
+      "deeperdarker:heart_of_the_deep": 4096,
+      "deeperdarker:warden_upgrade_smithing_template": 7497
+    }
+  }
+}

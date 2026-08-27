@@ -1,0 +1,517 @@
+{
+  "replace": false,
+  "comment": "Deeper and Darker EMC integration for ProjectE (KURONAMI). Values per _research/emc_campaign_2026-08-26/DEEPERDARKER_EMC_SPEC.md (SS3 + SS8 rulings). Gear (warden/resonarium armour and the sonorous_staff chain), stateful curios, soul_elytra (elytra is unvalued) and ancient_compass (AUTO) intentionally have no EMC. Echo logs ride #minecraft:logs(32). The 16 colored sculk transmitters derive through the sculk_transmitter_coloring group.",
+  "values": {
+    "before": [
+      {
+        "type": "projecte:item",
+        "emc_value": 1,
+        "id": "deeperdarker:echo_soil"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2,
+        "id": "deeperdarker:cobbled_gloomslate"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2,
+        "id": "deeperdarker:cobbled_sculk_stone"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "id": "deeperdarker:blooming_sculk_stone"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1,
+        "id": "deeperdarker:gloomy_grass"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1,
+        "id": "deeperdarker:glowing_grass"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1,
+        "id": "deeperdarker:glowing_roots"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "id": "deeperdarker:sculk_tendrils"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "id": "deeperdarker:sculk_vines"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:gloomy_sculk"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:gloomy_geyser"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:bloom_berries"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:glowing_flowers"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:ice_lily"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:gloomy_cactus"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 12,
+        "id": "deeperdarker:blooming_moss_block"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 12,
+        "id": "deeperdarker:porous_sculk_gleam"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8,
+        "id": "deeperdarker:sculk_gleam"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "id": "deeperdarker:gleam_gel"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "deeperdarker:grime_ball"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "deeperdarker:angler_fish"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 144,
+        "id": "deeperdarker:sculk_bone"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 192,
+        "id": "deeperdarker:soul_dust"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32,
+        "id": "deeperdarker:crystallized_amber"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "deeperdarker:sculk_jaw"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "deeperdarker:gloomslate_pot"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "deeperdarker:lite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "id": "deeperdarker:sculk_transmitter"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "id": "deeperdarker:soul_crystal"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 768,
+        "id": "deeperdarker:resonarium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "id": "deeperdarker:warden_carapace"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 7497,
+        "id": "deeperdarker:ancient_vase"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32,
+        "id": "deeperdarker:blooming_stem"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32,
+        "id": "deeperdarker:stripped_blooming_stem"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:brittle_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:dark_heart_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:listener_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:snapper_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:temple_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:transmission_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:ward_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 216,
+        "id": "deeperdarker:wayfinder_gloomsherd"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "deeperdarker:heart_of_the_deep"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 7497,
+        "id": "deeperdarker:warden_upgrade_smithing_template"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 7497,
+        "id": "deeperdarker:resonarium_upgrade_smithing_template"
+      }
+    ]
+  },
+  "groups": {
+    "sculk_transmitter_coloring": {
+      "comment": "deeperdarker:sculk_transmitter_coloring is a custom CraftingRecipe subclass keyed by DyeColor (SculkTransmitterColoring#assemble uses DyeColor#getColor and SculkTransmitterItem#getItemByColor), so ProjectE cannot derive colored variants. One transmitter + one dye -> one colored transmitter.",
+      "conversions": [
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:white_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:white_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:light_gray_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:light_gray_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:gray_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:gray_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:black_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:black_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:brown_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:brown_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:red_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:red_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:orange_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:orange_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:yellow_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:yellow_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:lime_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:lime_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:green_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:green_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:cyan_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:cyan_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:light_blue_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:light_blue_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:blue_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:blue_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:purple_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:purple_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:magenta_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:magenta_dye"
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "deeperdarker:pink_sculk_transmitter"
+          },
+          "count": 1,
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "deeperdarker:sculk_transmitter"
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:pink_dye"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
