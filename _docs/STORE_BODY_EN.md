@@ -1,5 +1,3 @@
-# EMC for Deeper and Darker
-
 With this add-on, Deeper and Darker's materials gain EMC and can be used in ProjectE's transmutation system; without it, ProjectE cannot price them. The values are set so that the mod's deep-dark rewards keep their place in progression instead of becoming cheap alternate sources.
 
 ## What is valued
@@ -42,11 +40,9 @@ Every item the host allows in a composter was checked against vanilla ferns, and
 
 - [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) is required. It is not published on Modrinth.
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) is required.
-- Minecraft 1.21.1 on NeoForge, and Minecraft 1.20.1 on Forge, are supported.
-- This is server-side data; clients do not need to install it.
 
 ## License & credits
 
-All Rights Reserved. Free to put in any modpack, on any platform, monetised or not - no permission needed, no credit required. Source is published so you can read exactly what it does.
+Bugs and questions: comment on the CurseForge page, or DM @kuronami333 on X.
 
-Author: KURONAMI
+All Rights Reserved. Free to put in any modpack, on any platform, monetised or not - no permission needed, no credit required. Source is published so you can read exactly what it does.
